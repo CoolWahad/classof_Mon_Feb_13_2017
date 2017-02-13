@@ -15,6 +15,9 @@ public class GitHub_Mon_Feb_13_2017 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        hello();
+    }
+    public static void hello() {
         System.out.println("Hello, world!");
     }
     
